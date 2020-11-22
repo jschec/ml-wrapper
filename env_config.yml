@@ -1,0 +1,16 @@
+name: mainenv
+channels:
+  - conda-forge
+  - bioconda
+  - anaconda
+  - r
+dependencies:
+  - r
+  - r-essentials
+  - r-irkernel
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
